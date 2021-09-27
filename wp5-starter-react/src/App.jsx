@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 import "tailwindcss/tailwind.css";
 
-import Header from "hero/Header";
+import Header from "hero/Component/Header";
 import Pokemon from "pokemon/Pokemon";
 
 import "./index.css";
